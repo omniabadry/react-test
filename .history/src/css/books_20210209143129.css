@@ -1,0 +1,17 @@
+[class*="col-"] {
+    float: left;
+}
+
+.books {
+    text-align: center;
+}
+
+#search {
+    margin: 10px;
+}
+
+.card {
+    height: 200px;
+    margin: 40px;
+    background-color: rgb(151, 194, 194);
+}

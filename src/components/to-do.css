@@ -1,0 +1,19 @@
+.ul {
+    list-style: none;
+  }
+  
+  .ul span li:before {
+    content: '✓';
+  }
+.ul span li {
+    display: inline;
+}
+  
+  input{
+      margin-bottom: 20px;
+  }
+  .deletebtn{
+      background-color: transparent;
+      border: none;
+      margin-left: 50px
+  }
